@@ -1,6 +1,4 @@
-This is from main
-This is local first
-This is from main 2nd
+I love Apple
+I love Banana
+I love Apple and Banana
 
-This from Local Second
-This is from Main third.
